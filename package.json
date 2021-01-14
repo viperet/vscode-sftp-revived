@@ -1,21 +1,21 @@
 {
-  "name": "sftp",
+  "name": "sftp-revived",
   "displayName": "SFTP",
   "description": "SFTP/FTP sync",
-  "version": "1.12.11",
-  "publisher": "liximomo",
-  "author": "liximomo <liximomo@gmail.com> (https://liximomo.github.io/)",
+  "version": "1.12.12",
+  "publisher": "bthompson90",
+  "author": "Brian Thompson <brian@hashvault.io>",
   "engines": {
     "vscode": "^1.30.0"
   },
   "bugs": {
-    "url": "https://github.com/liximomo/vscode-sftp/issues",
-    "email": "liximomo@gmail.com"
+    "url": "https://github.com/bthompson90/vscode-sftp-revived/issues",
+    "email": "brian@hashvault.io"
   },
-  "homepage": "https://github.com/liximomo/vscode-sftp/blob/master/README.md",
+  "homepage": "https://github.com/bthompson90/vscode-sftp-revived/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/liximomo/vscode-sftp.git"
+    "url": "https://github.com/bthompson90/vscode-sftp-revived.git"
   },
   "categories": [
     "Other"
@@ -24,7 +24,8 @@
     "ftp",
     "sftp",
     "sync",
-    "remote"
+    "remote",
+    "revived"
   ],
   "activationEvents": [
     "onCommand:sftp.config",
@@ -528,7 +529,7 @@
     "dev": "webpack --mode development --watch",
     "test": "jest",
     "package": "vsce package",
-    "pub:debug": "rm -rf _debug && mkdir _debug && vsce package --out _debug/sftp-debug.vsix && cd _debug && git init && git commit --allow-empty -m 'update debug package' && git checkout -b debug-pacakge && cp ../INSTALL_DEBUG.md README.md  && git add . && git commit -am 'update debug package' && git push git@github.com:liximomo/vscode-sftp.git debug-pacakge --force"
+    "pub:debug": "rm -rf _debug && mkdir _debug && vsce package --out _debug/sftp-debug.vsix && cd _debug && git init && git commit --allow-empty -m 'update debug package' && git checkout -b debug-pacakge && cp ../INSTALL_DEBUG.md README.md  && git add . && git commit -am 'update debug package' && git push git@github.com:bthompson90/vscode-sftp-revived.git debug-pacakge --force"
   },
   "devDependencies": {
     "@types/fs-extra": "^5.0.4",

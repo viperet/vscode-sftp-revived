@@ -1,6 +1,13 @@
 # vscode-sftp-revived Change Log
 
-## 1.12.11 - 2021-01-136
+## 1.12.12 - 2021-01-13
+
+- Remove donations from README.md.
+- Remove instances of old repository and owner from package.json, and replace with new repo and owner.
+- Change name of package from `sftp` to `sftp-revived` in package.json.
+- Fix README.md list formatting.
+
+## 1.12.11 - 2021-01-13
 
 - Add braces >=2.3.1 to package.json.
 - Add node-notifier >=8.0.1 to package.json.
