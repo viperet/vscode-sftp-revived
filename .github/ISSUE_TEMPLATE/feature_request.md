@@ -1,7 +1,6 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-
 ---
 
 **Is this a similar or duplicate feature request?**
@@ -16,7 +15,3 @@ A clear and concise description of what you want to happen.
 
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
-
-**Does this project help you?**
-- [x] Yes. SFTP IS AWESOME!
-- [ ] Yes. [I want to support you.](https://github.com/liximomo/vscode-sftp#donation)
