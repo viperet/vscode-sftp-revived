@@ -2,7 +2,7 @@
   "name": "sftp-revived",
   "displayName": "SFTP",
   "description": "SFTP/FTP sync",
-  "version": "1.12.12",
+  "version": "1.12.13",
   "publisher": "bthompson90",
   "author": "Brian Thompson <brian@hashvault.io>",
   "engines": {
