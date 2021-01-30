@@ -1,5 +1,12 @@
 # vscode-sftp-revived Change Log
 
+## 1.12.13 - 2021-01-30
+
+- Remove assets/alipay.png and assets/weechat.png images.
+- Replace liximomo with bthompson90 in README.md.
+- Replace liximomo with bthompson90 in LICENSE.
+- Minor changes to the GitHub issues templates.
+
 ## 1.12.12 - 2021-01-13
 
 - Remove donations from README.md.
