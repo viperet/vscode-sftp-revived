@@ -17,7 +17,7 @@ Very powerful, with smart features. Very simple, requires just three lines of co
   - File Watcher
   - Multiple configs
   - Switchable profiles
-- [Commands](https://github.com/liximomo/vscode-sftp/wiki/Command)
+- [Commands](https://github.com/bthompson90/vscode-sftp-revived/wiki/Command)
 - [Debug](#debug)
 - [Support SFTP Project](#Donation)
 
@@ -58,11 +58,11 @@ There are other Example Configs below.
 5. Done - you can now edit locally and after each save it will upload to your remote file.
 6. Enjoy !
 
-For detailed usage. Please go to [wiki](https://github.com/liximomo/vscode-sftp/wiki).
+For detailed usage. Please go to [wiki](https://github.com/bthompson90/vscode-sftp-revived/wiki).
 
 ## Example Configs
 
-You can see the full config [here](https://github.com/liximomo/vscode-sftp/wiki/config).
+You can see the full config [here](https://github.com/bthompson90/vscode-sftp-revived/wiki/config).
 
 - [Simple](#simple)
 - [Profiles](#profiles)
@@ -238,7 +238,7 @@ In sftp.json:
 
 ## Remote Explorer
 
-![remote-explorer-preview](https://raw.githubusercontent.com/liximomo/vscode-sftp/master/assets/showcase/remote-explorer.png)
+![remote-explorer-preview](https://raw.githubusercontent.com/bthompson90/vscode-sftp-revived/master/assets/showcase/remote-explorer.png)
 
 Remote Explorer lets you explore files in remote. You can open Remote Explorer by:
 
