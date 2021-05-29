@@ -19,7 +19,7 @@ Very powerful, with smart features. Very simple, requires just three lines of co
   - File Watcher
   - Multiple configs
   - Switchable profiles
-- [Commands](https://github.com/bthompson90/vscode-sftp-revived/wiki/Command)
+- [Commands](https://github.com/liximomo/vscode-sftp/wiki/Command)
 - [Debug](#debug)
 
 ## Documentation
@@ -73,11 +73,11 @@ There are other Example Configs below.
 5. Done - you can now edit locally and after each save it will upload to your remote file.
 6. Enjoy !
 
-For detailed usage. Please go to [wiki](https://github.com/bthompson90/vscode-sftp-revived/wiki).
+For detailed usage. Please go to [wiki](https://github.com/liximomo/vscode-sftp/wiki).
 
 ## Example Configs
 
-You can see the full config [here](https://github.com/bthompson90/vscode-sftp-revived/wiki/config).
+You can see the full config [here](https://github.com/liximomo/vscode-sftp/wiki/config).
 
 - [SFTP Revived for VSCode](#sftp-revived-for-vscode)
   - [Description](#description)

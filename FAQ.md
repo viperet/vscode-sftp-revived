@@ -24,7 +24,7 @@ Change `remotePath` to the actual path if it's a symlink.
 
 The problem would be that your server runs out of file descriptors. You should try to increase the
 file descriptors limit. If you don't have the permission to do this, set
-[limitOpenFilesOnRemote](https://github.com/bthompson90/vscode-sftp-revived/wiki/Config#limitopenfilesonremote) option in your config.
+[limitOpenFilesOnRemote](https://github.com/liximomo/vscode-sftp/wiki/Config#limitopenfilesonremote) option in your config.
 
 ## ENFILE: file table overflow
 

@@ -9,13 +9,13 @@
     "vscode": "^1.30.0"
   },
   "bugs": {
-    "url": "https://github.com/bthompson90/vscode-sftp-revived/issues",
+    "url": "https://github.com/viperet/vscode-sftp-revived/issues",
     "email": "brian@hashvault.io"
   },
-  "homepage": "https://github.com/bthompson90/vscode-sftp-revived/blob/master/README.md",
+  "homepage": "https://github.com/viperet/vscode-sftp-revived/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bthompson90/vscode-sftp-revived.git"
+    "url": "https://github.com/viperet/vscode-sftp-revived.git"
   },
   "categories": [
     "Other"
