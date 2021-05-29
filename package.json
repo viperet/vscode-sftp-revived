@@ -2,8 +2,8 @@
   "name": "sftp-revived",
   "displayName": "SFTP",
   "description": "SFTP/FTP sync",
-  "version": "1.12.13",
-  "publisher": "bthompson90",
+  "version": "1.12.14",
+  "publisher": "viperet",
   "author": "Brian Thompson <brian@hashvault.io>",
   "engines": {
     "vscode": "^1.30.0"

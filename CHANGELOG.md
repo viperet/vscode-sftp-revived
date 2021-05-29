@@ -1,5 +1,11 @@
 # vscode-sftp-revived Change Log
 
+## 1.12.14 - 2021-05-29
+
+- Changed wiki links back to liximomo
+- Fixed error "No such file" on VSCode 1.56
+- Fixed issue with uploading of file which has unsaved changes
+
 ## 1.12.13 - 2021-01-30
 
 - Remove assets/alipay.png and assets/weechat.png images.
